@@ -94,23 +94,24 @@ Traditional crab identification is manual, time-consuming, and prone to human er
 ## Installation
 
 - ### Download the APK
-Get the KrabSource mobile application APK from the official distribution source.
+> Get the KrabSource mobile application APK from the official distribution source.
+> You can download the app [`/dist`](./dist) directly in this folder.
 
 - ### Enable Unknown Sources
-On your Android device, go to Settings > Security and enable Install from Unknown Sources.
+> On your Android device, go to Settings > Security and enable Install from Unknown Sources.
 
 - ### Install the Application
-Open the downloaded APK file and follow the on-screen prompts to install.
+> Open the downloaded APK file and follow the on-screen prompts to install.
 
 - ### Launch the App
-After installation, open KrabSource from your app drawer.
+> After installation, open KrabSource from your app drawer.
 
 - ### Grant Permissions
-Make sure to allow access to your device’s camera, storage, and GPS location when prompted.
+> Make sure to allow access to your device’s camera, storage, and GPS location when prompted.
 
 ## API Reference
 
-https://github.com/ThirdyNeko/Krabsource_flask.git
+[Server Link](https://github.com/ThirdyNeko/Krabsource_flask.git)
 
 ## Tests
 
@@ -161,8 +162,12 @@ test_app.py::test_classify_endpoint PASSED
 ```
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+### Documentation
+- Fork the repository.  
+- Create a feature branch (`git checkout -b feature-name`).  
+- Make your changes.  
+- Commit and push your branch.  
+- Submit a pull request for review.
 
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
+### Stay Connected
+- Message us on [Email](ireneo.catequista@wvsu.edu.ph).
