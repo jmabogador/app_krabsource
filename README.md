@@ -1,6 +1,6 @@
 ## Synopsis
 
-**KrabSource** is a mobile and web-based application that uses a Convolutional Neural Network (CNN), specifically the ResNet-18 model, to identify and classify crab species found in Panay Island, Philippines. The system classifies crabs based on patterns, colors, and shapes, integrates GPS for mapping, and supports real-time monitoring of species. Its goal is to automate crab identification, improve ecological research, and assist in marine biodiversity conservation.
+***KrabSource*** is a mobile and web-based application that uses a Convolutional Neural Network (CNN), specifically the ResNet-18 model, to identify and classify crab species found in Panay Island, Philippines. The system classifies crabs based on patterns, colors, and shapes, integrates GPS for mapping, and supports real-time monitoring of species. Its goal is to automate crab identification, improve ecological research, and assist in marine biodiversity conservation.
 
 ## Code Example
 ```
