@@ -1,0 +1,8 @@
+Short Description:
+Crab ID and mapping app using AI with GPS tracking for research and conservation.
+
+Full Description:
+
+KrabSource is a mobile application designed to identify, classify, and monitor crab species found on Panay Island, Philippines. Powered by Convolutional Neural Networks (ResNet-18), the system provides a fast and reliable way to recognize crabs based on their color, shape, and texture patterns, while also mapping their locations using GPS.
+
+With KrabSource, users can easily capture or upload a photo of a crab, and the app will instantly analyze the image to determine its species. Results include the crab’s local name, English name, and scientific name, along with detailed characteristics. This makes the app highly useful for fisherfolk, researchers, students, and conservationists who want to better understand crab populations.
