@@ -1,7 +1,6 @@
 ## Synopsis
 
-### KrabSource: Crab Identification and Monitoring System with CNN Algorithm Using Residual Network 18 Model
-KrabSource is a mobile and web-based application that uses a Convolutional Neural Network (CNN), specifically the ResNet-18 model, to identify and classify crab species found in Panay Island, Philippines. The system classifies crabs based on patterns, colors, and shapes, integrates GPS for mapping, and supports real-time monitoring of species. Its goal is to automate crab identification, improve ecological research, and assist in marine biodiversity conservation.
+**KrabSource** is a mobile and web-based application that uses a Convolutional Neural Network (CNN), specifically the ResNet-18 model, to identify and classify crab species found in Panay Island, Philippines. The system classifies crabs based on patterns, colors, and shapes, integrates GPS for mapping, and supports real-time monitoring of species. Its goal is to automate crab identification, improve ecological research, and assist in marine biodiversity conservation.
 
 ## Code Example
 ```
@@ -13,10 +12,10 @@ import numpy as np
 import cv2
 import os
 
-### Initialize Flask
+# Initialize Flask
 app = Flask(__name__)
 
-### Load trained ResNet-18 model
+# Load trained ResNet-18 model
 model_path = os.path.join(os.path.dirname(__file__), 'krabsource.pkl')
 learn = load_learner(model_path)`
 
